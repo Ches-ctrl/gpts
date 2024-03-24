@@ -1,7 +1,7 @@
 # Charlie's ChatGPT GPT Repository
 
 Find here:
-- The list of GPTs
+- The list of available GPTs
 - Instructions to build these yourself
 - OpenAPI JSON files
 
