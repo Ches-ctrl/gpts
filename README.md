@@ -2,8 +2,8 @@
 
 Find here:
 - The list and links to available GPTs
-- Instructions to build these yourself
-- OpenAPI JSON files
+- Instructions to build these yourself (coming soon)
+- OpenAPI JSON files (coming soon)
 
 
 ## All GPTs
